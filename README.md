@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/vedahinave" target="blank"><img src="https://img.shields.io/twitter/follow/vedahinave?logo=twitter&style=for-the-badge" alt="vedahinave" /></a> </p>
 
 - 🔭 I've worked on [Weberr](https://weberr.com/)
+- - 🔭 I've worked on [KafeCloud](https://www.kafecloud.com/)
+- - 🔭 I've worked on [Schedulic](https://app.schedulic.com/)
 
 - 🌱 I’m currently learning **Automation Testing, api testing**
 
